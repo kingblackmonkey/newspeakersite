@@ -1,0 +1,81 @@
+body{
+	background: #f7f7f4;
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.navbar .navbar-brand {
+	color: rgba(255, 255, 255, 0.85);
+	font-size: 1rem;
+}
+.jumbotron{
+	background-image: url('https://images.unsplash.com/photo-1536273513130-d8477e6e4389?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=8ca50912dfe467b8e64073a493e2a236&auto=format&fit=crop&w=500&q=60');
+	background-size: cover;
+	 color: rgb(196, 57, 94)!important;
+	 font-size: 1rem;
+	
+}
+
+.display-2{
+	font-size: 4em;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #ed6f09;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #2d8276;
+     border-color: #2d8276;
+ }
+
+ .navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active{
+ 	color: black;
+ 	font-size: 1.5em;
+ }
+
+.navbar .navbar-brand {
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+}
+
+.bg-light {
+    background-color: #64d9c8!important;
+}
+
+a {
+    color: #538eca;
+}
+
+.btn-primary{
+	background-color: #538eca;
+	margin-left: 2px;
+
+}
+
+.btn-outline-primary{
+	color: #538eca;
+	border-color: #538eca;
+}
+
+.nav{
+	padding-top: 2.3rem;
+}
+@media(max-width: 400px){
+	.jumbotron h1{
+		font-size: 3em;
+	}
+
+	.btn-group .btn{
+		font-size: 1em;
+		padding: .05em;
+	}
+
+}
+
