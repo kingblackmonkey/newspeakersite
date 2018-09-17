@@ -72,6 +72,10 @@ a {
 		font-size: 3em;
 	}
 
+	.jumbotron{
+		margin-top: 3rem;
+	}
+
 	.btn-group .btn{
 		font-size: 1em;
 		padding: .05em;
@@ -79,3 +83,8 @@ a {
 
 }
 
+@media (min-width: 576px){
+.jumbotron {
+    padding: 4rem 2rem;
+    margin-top: 1.7rem;
+}
