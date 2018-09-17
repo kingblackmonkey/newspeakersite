@@ -1,2 +1,2 @@
-# my newspeakersite using bootstrap
+# My newspeakersite using bootstrap
 # 
